@@ -1,2 +1,2 @@
-ReactDOM.render(<h1>dgggggggggd </h1>, document.getElementById("root"))
+ReactDOM.render//createRoot//(<h1>dgggggggggd </h1>, document.getElementById("root"))
  
